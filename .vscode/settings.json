@@ -1,6 +1,7 @@
 {
   "conventionalCommits.scopes": [
     "npx",
-    "task"
+    "task",
+    "vscode"
   ]
 }
